@@ -10,7 +10,7 @@ Routes?
 
 Voting App functionality
 1.User Sign In/Sign Up
-2.See the list of canduadates
+2.See the list of candidates
 3. Register the Voters
 4. Vote one of the candidates ,after voting , user can't vote again
 5. there is a route which shows the list of candidates  and
